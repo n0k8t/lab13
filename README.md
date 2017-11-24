@@ -21,3 +21,15 @@ struct Person {
   std::string  phone;
 };
 ```
+
+### Результат проверки валидности через JSON Lint.
+```
+$jsonlint file.json
+{
+  "age": 19,
+  "email_nickname": "petrov_ivan_98@ya.ru",
+  "first_name": "Ivan",
+  "last_name": "Petrov",
+  "phone": "8(800)555-35-35"
+}
+```
