@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/n0k8t/lab10.svg?branch=master)](https://travis-ci.org/n0k8t/lab13)
 ## Laboratory work XIII
 
 ### Задание
